@@ -5,7 +5,7 @@ project:
 book:
   title: "Global Biostatistical Commons"
   subtitle: "A Resource Bank by the Statistical Society of Canada"
-  author: "Alexandra Mossman, Laura Bumbulis, Victor Malinowski"
+  author: "Alexandra Mossman · Laura Bumbulis · Victor Malinowski"
   language: en
   # Order of main pages in the sidebar
   chapters:
