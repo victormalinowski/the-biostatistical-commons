@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Global Biostatistical Commons",
+    "section": "",
+    "text": "Start here",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#start-here",
+    "href": "index.html#start-here",
+    "title": "Global Biostatistical Commons",
+    "section": "",
+    "text": "Glossary & Definitions\nGet a quick orientation to core biostatistical ideas and terminology.\nTutorials & Examples\nShort, applied examples with code (regression models, survival analysis, longitudinal data).\nCommon Challenges\nNotes on frequent issues in practice (e.g. power, convergence, model checking, missing data).\nFoundational Papers\nLinks to foundational biostatistical papers (e.g. on double robustness, inverse weighting).\nPublishing Guidelines\nInstructions for publishing in biostatistical journals (e.g. Statistics in Medicine, Biometrika).\nExternal Resources\nInteractive apps, workshop materials, videos and blogposts, and other selected external links.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#who-this-site-is-for",
+    "href": "index.html#who-this-site-is-for",
+    "title": "Global Biostatistical Commons",
+    "section": "Who this site is for",
+    "text": "Who this site is for\n\nStudents and trainees looking for approachable explanations and code examples\n\nCollaborators and researchers who want quick references and practical guidance\n\nInstructors and supervisors seeking materials to share in courses, labs, or journal clubs",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#contribute",
+    "href": "index.html#contribute",
+    "title": "Global Biostatistical Commons",
+    "section": "Contribute",
+    "text": "Contribute\nThe Commons is designed to grow through community contributions.\nIf you have:\n\na short tutorial or worked example,\nan interactive app or teaching demo, or\na particularly clear paper, video, or set of notes,\n\nplease consider contributing.\n\nContact: email@uwaterloo.ca\n\n\nAn initiative of the Statistical Society of Canada.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  }
+]
