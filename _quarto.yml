@@ -1,0 +1,60 @@
+project:
+  type: book          # book layout with sidebar navigation
+  output-dir: docs    # important for GitHub Pages (serve from /docs)
+
+book:
+  title: "Global Biostatistical Commons"
+  subtitle: "A Resource Bank by the Statistical Society of Canada"
+  author: "Alexandra Mossman, Laura Bumbulis, Victor Malinowski"
+  language: en
+  # Order of main pages in the sidebar
+  chapters:
+    - text: Welcome
+      href: index.qmd
+    - text: Glossary & Definitions
+      href: glossary.qmd
+    - text: Tutorials & Examples
+      href: tutorials.qmd
+    - text: Common Challenges
+      href: challenges.qmd
+    - text: Foundational Papers
+      href: papers.qmd
+    - text: Publishing Guidelines
+      href: publishing.qmd
+    - part: "External Resources"
+      chapters:
+        - external/index.qmd
+        - external/blogposts.qmd
+        - external/rshinyapps.qmd
+        - external/workshops.qmd
+        - external/videos.qmd
+    - about.qmd
+
+  page-footer:
+    left: |
+      Global Biostatistical Commons · Statistical Society of Canada
+    right: |
+      Built with [Quarto](https://quarto.org)
+
+  # Optional: add GitHub link if/when the repo is public
+  # repo-url: https://github.com/YOUR-ORG/YOUR-REPO
+  # repo-actions: [issue]
+
+format:
+  html:
+    theme:
+      light: flatly     # light theme
+      dark: darkly      # dark theme
+    toc: true           # per-page table of contents in the sidebar
+    code-fold: true     # allow code to be collapsed
+    code-link: true     # link from code blocks to source
+    number-sections: false
+
+execute:
+  echo: true        # show code by default
+  warning: false    # hide warnings in rendered pages
+  message: false    # hide messages (e.g., package load info)
+  freeze: auto      # only re-run when source changes
+
+# Optional: global bibliography (if you later use references)
+# bibliography: references.bib

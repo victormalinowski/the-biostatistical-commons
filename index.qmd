@@ -1,0 +1,54 @@
+---
+title: "Global Biostatistical Commons"
+format:
+  html:
+    toc: true
+---
+
+Welcome to the **Global Biostatistical Commons**, a curated collection of learning and teaching resources, developed by the Biostatistics Section of the Statistical Society of Canada.
+
+Our aim is to make it easier for students, researchers, and instructors to find clear, practical materials for modern biostatistics.
+
+## Start here
+
+- [**Glossary & Definitions**](glossary.qmd)    
+  Get a quick orientation to core biostatistical ideas and terminology.  
+
+- [**Tutorials & Examples**](tutorials.qmd)   
+  Short, applied examples with code (regression models, survival analysis, longitudinal data).  
+
+- [**Common Challenges**](challenges.qmd)   
+  Notes on frequent issues in practice (e.g. power, convergence, model checking, missing data).  
+  
+- [**Foundational Papers**](papers.qmd)   
+  Links to foundational biostatistical papers (e.g. on double robustness, inverse weighting).   
+  
+- [**Publishing Guidelines**](publishing.qmd)   
+  Instructions for publishing in biostatistical journals (e.g. Statistics in Medicine, Biometrika).   
+
+- [**External Resources**](external/index.qmd)  
+  Interactive apps, workshop materials, videos and blogposts, and other selected external links.  
+
+## Who this site is for
+
+- **Students and trainees** looking for approachable explanations and code examples  
+- **Collaborators and researchers** who want quick references and practical guidance  
+- **Instructors and supervisors** seeking materials to share in courses, labs, or journal clubs  
+
+## Contribute
+
+The Commons is designed to grow through community contributions.
+
+If you have:
+
+- a short tutorial or worked example,
+- an interactive app or teaching demo, or
+- a particularly clear paper, video, or set of notes,
+
+please consider contributing.
+
+> Contact: [_email@uwaterloo.ca_](mailto:email@uwaterloo.ca)
+
+---
+
+_An initiative of the Statistical Society of Canada._
