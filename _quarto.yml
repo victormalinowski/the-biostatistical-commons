@@ -4,8 +4,17 @@ project:
 
 book:
   title: "Global Biostatistical Commons"
-  subtitle: "A Resource Bank by the Statistical Society of Canada"
-  author: "Alexandra Mossman · Laura Bumbulis · Victor Malinowski"
+  subtitle: "A Collaborative Reference Platform for Biostatisticians"
+  author: 
+    - name: Alexandra Mossman
+      affiliation: University of Calgary
+      url: "about.html#alexandra-mossman"
+    - name: Laura Bumbulis
+      affiliation: University of Waterloo
+      url: "about.html#laura-bumbulis"
+    - name: Victor Malinowski
+      affiliation: University of Waterloo
+      url: "about.html#victor-malinowski"
   language: en
   # Order of main pages in the sidebar
   chapters:
@@ -32,7 +41,7 @@ book:
 
   page-footer:
     left: |
-      Global Biostatistical Commons · Statistical Society of Canada
+      Global Biostatistical Commons
     right: |
       Built with [Quarto](https://quarto.org)
 

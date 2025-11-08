@@ -3,3 +3,24 @@ title: "About Us"
 format: html
 ---
 
+Founded in November 2025, the _Global Biostatistical Commons_ is an initiative by affiliates of the Biostatistics Section of the Statistical Society of Canada (SSC). The Commons was created to foster collaboration, knowledge sharing, and accessibility in biostatistics education and practice.
+
+Developed and maintained by a team of biostatisticians, the Commons serves as a central hub for learning resources, applied tutorials, and best-practice guidance in modern biostatistical methods.
+
+Our mission is to make high-quality, open educational materials freely available to students, researchers, and instructors, and to support a growing community dedicated to advancing biostatistics through transparency and collaboration.
+
+## Authors
+
+### Alexandra Mossman {#alexandra-mossman}
+
+Department of Medicine, University of Calgary
+
+### Laura Bumbulis {#laura-bumbulis}
+
+Department of Statistics and Actuarial Science, University of Waterloo
+
+### Victor Malinowski {#victor-malinowski}
+
+Department of Statistics and Actuarial Science, University of Waterloo
+
+## Contributors

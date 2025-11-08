@@ -34,9 +34,39 @@
     "href": "index.html#contribute",
     "title": "Global Biostatistical Commons",
     "section": "Contribute",
-    "text": "Contribute\nThe Commons is designed to grow through community contributions.\nIf you have:\n\na short tutorial or worked example,\nan interactive app or teaching demo, or\na particularly clear paper, video, or set of notes,\n\nplease consider contributing.\n\nContact: email@uwaterloo.ca\n\n\nAn initiative of the Statistical Society of Canada.",
+    "text": "Contribute\nThe Commons is designed to grow through community contributions.\nIf you have:\n\na short tutorial or worked example,\nan interactive app or teaching demo, or\na particularly clear paper, video, or set of notes,\n\nplease consider contributing.\n\nContact: email@uwaterloo.ca",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Authors",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>About Us</span>"
+    ]
+  },
+  {
+    "objectID": "about.html#authors",
+    "href": "about.html#authors",
+    "title": "About Us",
+    "section": "",
+    "text": "Alexandra Mossman\nDepartment of Medicine, University of Calgary\n\n\nLaura Bumbulis\nDepartment of Statistics and Actuarial Science, University of Waterloo\n\n\nVictor Malinowski\nDepartment of Statistics and Actuarial Science, University of Waterloo",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>About Us</span>"
+    ]
+  },
+  {
+    "objectID": "about.html#contributors",
+    "href": "about.html#contributors",
+    "title": "About Us",
+    "section": "Contributors",
+    "text": "Contributors",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>About Us</span>"
     ]
   }
 ]

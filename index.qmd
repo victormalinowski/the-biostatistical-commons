@@ -5,7 +5,7 @@ format:
     toc: true
 ---
 
-Welcome to the **Global Biostatistical Commons**, a curated collection of learning and teaching resources, developed by the Biostatistics Section of the Statistical Society of Canada.
+Welcome to the _Global Biostatistical Commons_, a curated collection of learning and teaching resources, developed by affiliates of the Biostatistics Section of the Statistical Society of Canada.
 
 Our aim is to make it easier for students, researchers, and instructors to find clear, practical materials for modern biostatistics.
 
@@ -31,9 +31,9 @@ Our aim is to make it easier for students, researchers, and instructors to find 
 
 ## Who this site is for
 
-- **Students and trainees** looking for approachable explanations and code examples  
-- **Collaborators and researchers** who want quick references and practical guidance  
-- **Instructors and supervisors** seeking materials to share in courses, labs, or journal clubs  
+- Students and trainees looking for approachable explanations and code examples  
+- Collaborators and researchers who want quick references and practical guidance  
+- Instructors and supervisors seeking materials to share in courses, labs, or journal clubs  
 
 ## Contribute
 
@@ -48,7 +48,3 @@ If you have:
 please consider contributing.
 
 > Contact: [_email@uwaterloo.ca_](mailto:email@uwaterloo.ca)
-
----
-
-_An initiative of the Statistical Society of Canada._
