@@ -41,7 +41,7 @@ book:
 
   page-footer:
     left: |
-      The Biostatistical Commons
+      © The Biostatistical Commons
     right: |
       Built with [Quarto](https://quarto.org)
     background: "#2C3E50"   # footer background color
@@ -70,3 +70,4 @@ execute:
 
 # Optional: global bibliography (if you later use references)
 # bibliography: references.bib
+
